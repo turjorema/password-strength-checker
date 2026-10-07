@@ -1,3 +1,4 @@
+# Just for Learn and Fun !
 #!/usr/bin/env python3
 """
 Password Strength Checker
@@ -14,7 +15,7 @@ import math
 
 # ---------------------------------------------------------------------------
 # Terminal colors (ANSI escape codes) — works on macOS/Linux and modern
-# Windows terminals (Windows 10+ / VS Code / Windows Terminal).
+# Windows terminals (Windows 10+ / VS Code / Windows Terminal). Sys
 # ---------------------------------------------------------------------------
 class C:
     RESET = "\033[0m"
